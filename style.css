@@ -182,6 +182,15 @@ button:hover {
   }
 }
 
+@media (max-width: 680px){
+  form {
+    width: 400px;
+  }
+  input, textarea {
+    width: 400px;
+  }
+}
+
 @media (max-width: 999px) {
   body {
     overflow-x: hidden;
