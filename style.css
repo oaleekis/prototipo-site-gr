@@ -215,10 +215,10 @@ button:hover {
 
   .nav-list {
     position: absolute;
-    top: 8vh;
+    top: 90px;
     right: 0;
     width: 50vw;
-    height: 92vh;
+    height: 86vh;
     background: #fff;
     flex-direction: column;
     align-items: center;
