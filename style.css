@@ -5,6 +5,9 @@
 body {
   background-color: #fff;
 }
+.logo {
+  height: 80px;
+}
 
 header {
   width: 100vw;
@@ -189,6 +192,19 @@ button:hover {
   input, textarea {
     width: 400px;
   }
+  .logo {
+    height: 50px;
+  }
+
+  .button-menu {
+    font-size: 18px;
+    border-radius: 20px;
+    margin-left: 15px;
+    align-items: center;
+    width: 140px;
+    height: 50px;
+  }
+
 }
 
 @media (max-width: 999px) {
