@@ -198,6 +198,7 @@ button:hover {
 @media (max-width: 680px) {
   form {
     width: 400px;
+    height: 700px;
   }
 
   input,
@@ -231,7 +232,7 @@ button:hover {
 
   .nav-list {
     position: absolute;
-    top: 90px;
+    top: 10vh;
     right: 0;
     width: 50vw;
     height: 86vh;
